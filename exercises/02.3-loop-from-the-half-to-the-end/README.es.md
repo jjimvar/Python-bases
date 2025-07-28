@@ -1,4 +1,5 @@
 
+
 # `02.3` Loop from the half to the end
 
 Este bucle no está iterándolo todo... porque las variables `initial_value`, `stop_value` e `increasing_value` son iguales a cero.
